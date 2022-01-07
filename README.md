@@ -1,7 +1,8 @@
 # gait-recognition-with-accelerometer
 Project for IOT course in Nanjing University. 
 
-项目名称起错了，应该是accelerometer，不是accelerator...
+项目名称一开始起错了，应该是accelerometer，不是accelerator...（已修正）<br>
+原项目地址https://github.com/MilesPoupart/gait-recognition-with-accelerator 也可跳转
 
 南京大学本研共修课程《物联网技术导论》课程项目（2021秋季学期）
 
